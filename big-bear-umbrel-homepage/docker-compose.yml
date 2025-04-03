@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: cullinancloud-umbrel-homepage_server_1
+      APP_HOST: big-bear-umbrel-homepage_server_1
       APP_PORT: 3000
 
   server:
